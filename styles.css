@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Lora|Cinzel');
+
+body {
+  font-family: 'Lora', serif;
+}
+
+.email {
+  color: blue;
+}
+
+.home__one {
+  padding: 15px;
+}
+
+.home__about {
+  /*margin-top: 25px;*/
+  /*margin-bottom: 25px;*/
+}
