@@ -17,6 +17,19 @@ body {
   margin-bottom: 25px;
 }
 
+.home__content .section-1 {
+  margin-left: 50px;
+  margin-bottom: 20px;
+}
+.home__content .section-2 {
+  margin-left: 50px;
+  margin-bottom: 20px;
+}
+.home__content .section-3 {
+  margin-left: 50px;
+  margin-bottom: 20px;
+}
+
 .email {
   color: #a654e3;
 }
